@@ -1,8 +1,6 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import sklearn
-print("Scikit-learn version:", sklearn.__version__)
 from sklearn.preprocessing import StandardScaler
 import pickle
 
